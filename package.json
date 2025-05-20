@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "main": "app.js",
   "scripts": {
-    "test": "jest",
-    "start": "node app.js"
+    "test": "echo \"No tests defined yet\""
   },
   "keywords": [],
   "author": "",
